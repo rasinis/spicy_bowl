@@ -1,4 +1,4 @@
-# grocery_app
+# spicy_bowl_app
 
 A new Flutter project.
 
