@@ -1,16 +1,46 @@
 # spicy_bowl_app
+# Spicy Bowl
 
-A new Flutter project.
+Spicy Bowl is a mobile food ordering app that lets users easily browse and order from a variety of delicious dishes, all with just a few taps!
 
-## Getting Started
+## Features
+- Browse menu categories
+- Add items to cart
+- Customize orders
+- User-friendly checkout process
+- Secure payment integration
+- Push notifications for order updates
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- **React Native** (for mobile app development)
+- **Firebase** (for real-time database and authentication)
+- **Stripe API** (for payment processing)
+- **Node.js** (for backend API)
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/rasinis/spicy_bowl.git
+   ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Install dependencies:
+   ```bash
+   cd spicy_bowl
+   npm install
+   ```
+
+3. Run the app:
+   ```bash
+   npm start
+   ```
+
+## Screenshots
+![Home Screen](path_to_image.png)
+![Menu Screen](path_to_image.png)
+
+## Contributing
+Contributions are welcome! Please feel free to fork the repository and submit pull requests.
+
+## License
+This project is licensed under the MIT License.
