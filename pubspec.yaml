@@ -1,0 +1,29 @@
+name: spicy_bowl
+description: "A new Flutter project."
+publish_to: 'none' # Optional, used if you want to publish the package to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.5
+  curved_navigation_bar: ^1.0.3
+  cupertino_icons: ^1.0.6 # Cupertino icons for iOS-style icons
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/rice.jpg
+    - assets/kottu.jpg
+    - assets/pasta.jpg
+    #- assets/sounds/sample_audio.mp3
+    #- assets/
