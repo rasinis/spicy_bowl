@@ -36,8 +36,8 @@ Spicy Bowl is a mobile food ordering app that lets users easily browse and order
    ```
 
 ## Screenshots
-![Home Screen](path_to_image.png)
-![Menu Screen](path_to_image.png)
+![Menu Screen]([path_to_image.png](https://drive.google.com/file/d/1__YQiv32ekGgfr2R4qWdWKleKbnNItnj/view?usp=drive_link))
+![Cart Screen]([path_to_image.png](https://drive.google.com/file/d/1628oa8uvcaA1l8Hrv0v8-ugewhgMFHN1/view?usp=drive_link))
 
 ## Contributing
 Contributions are welcome! Please feel free to fork the repository and submit pull requests.
